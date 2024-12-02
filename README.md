@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bishak7
+- 👋 Hi, I’m Bishak Saha
 - 👀 I’m interested in Web Development, Softwere Development, CP
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
